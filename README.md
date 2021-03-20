@@ -1,8 +1,5 @@
 ### HI!, You've reached Mango! 🥭
 
-<br />
-<br />
-
 <img align="right" alt="PNG" src="https://raw.githubusercontent.com/mangoess/mangoess/main/Assets/mangopng2.png" width="320" height="320" />
 
 **Languages I Know:**
