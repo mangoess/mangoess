@@ -1,9 +1,9 @@
-### You've reached Mango! 🥭, Leave a [message](https://github.com/mangoess/fruity)
+### You've reached Mango! 🥭
 
 <img align="right" alt="PNG" src="https://raw.githubusercontent.com/mangoess/mangoess/main/Assets/mangopng2.png" width="320" height="320" />
 
 **Languages I Know:**
-C# | Learning
+C# | Learning 
 Python | Experienced
 
 **Modules / Frameworks / Everything else I know!**
@@ -19,4 +19,14 @@ HTML, JS, CSS | Moderate
 
 ![Moi Github Statistiques](https://github-readme-stats.vercel.app/api?username=mangoess&show_icons=true&theme=cobalt)
 
+<br />
+My Top Languages!
+
 [![Moi Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=mangoess&layout=compact)]
+
+Contact mango#6205 on discord for more information
+oh and if you know how to upload a large quantity of files, (specifically C# files), please oh so please contact me.
+
+<br />
+
+***Please leave a message after the beep!***
