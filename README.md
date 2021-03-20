@@ -11,8 +11,8 @@ HTML, JS, CSS | Moderate
 
 ### PROJECTS YOU MIGHT LIKE
 
-[fruity.py](https://github.com/mangoess/fruity)
-[DiscordSpamma!](https://github.com/mangoess/DiscordSpama)
+[fruity.py](https://github.com/mangoess/fruity) , 
+[DiscordSpamma!](https://github.com/mangoess/DiscordSpama) and 
 [ShrekSpamma!](https://github.com/mangoess/ShrekSpamma)
 
 ****Here are my stats!****
