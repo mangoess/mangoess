@@ -1,6 +1,22 @@
-### YOU'VE REACHED MANGO 🥭
+### HI!, You've reached Mango! 🥭
 
 <br />
 <br />
 
-<img align="right" alt="PNG" src="https://raw.githubusercontent.com/mangoess/mangoess/98122cd9db6b40782d8a5f883e1047cf70ecbfc5/Assets/mangopng1.png" width="650" height="650" />
+<img align="right" alt="PNG" src="https://raw.githubusercontent.com/mangoess/mangoess/main/Assets/mangopng2.png" width="320" height="320" />
+
+**Languages I Know:**
+C# | Learning
+Python | Experienced
+
+**Modules / Frameworks / Everything else I know!**
+HTML, JS, CSS | Moderate
+
+### PROJECTS YOU MIGHT LIKE
+
+[fruity.py](https://github.com/mangoess/fruity)
+[DiscordSpamma!](https://github.com/mangoess/DiscordSpama)
+[ShrekSpamma!](https://github.com/mangoess/ShrekSpamma)
+
+****Here are my stats!****
+
