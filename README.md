@@ -1,4 +1,4 @@
-### HI!, You've reached Mango! 🥭
+### You've reached Mango! 🥭, Leave a [message](https://github.com/mangoess/fruity)
 
 <img align="right" alt="PNG" src="https://raw.githubusercontent.com/mangoess/mangoess/main/Assets/mangopng2.png" width="320" height="320" />
 
@@ -17,3 +17,6 @@ HTML, JS, CSS | Moderate
 
 ****Here are my stats!****
 
+![Moi Github Statistiques](https://github-readme-stats.vercel.app/api?username=mangoess&show_icons=true&theme=cobalt)
+
+[![Moi Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=mangoess&layout=compact)]
