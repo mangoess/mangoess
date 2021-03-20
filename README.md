@@ -20,13 +20,11 @@ HTML, JS, CSS | Moderate
 ![Moi Github Statistiques](https://github-readme-stats.vercel.app/api?username=mangoess&show_icons=true&theme=cobalt)
 
 <br />
-<br />
 
 My Top Languages!
 
 [![Moi Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=mangoess&layout=compact)]
 
-<br />
 <br />
 
 Contact mango#6205 on discord for more information
