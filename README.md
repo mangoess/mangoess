@@ -26,6 +26,9 @@ My Top Languages!
 
 [![Moi Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=mangoess&layout=compact)]
 
+<br />
+<br />
+
 Contact mango#6205 on discord for more information
 oh and if you know how to upload a large quantity of files, (specifically C# files), please oh so please contact me.
 
