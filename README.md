@@ -13,7 +13,7 @@ HTML, JS, CSS | Moderate
 
 [fruity.py](https://github.com/mangoess/fruity) , 
 [DiscordSpamma!](https://github.com/mangoess/DiscordSpama) and 
-[ShrekSpamma!](https://github.com/mangoess/ShrekSpamma)
+[SeeSharp](https://github.com/mangoess/CSharp)
 
 ****Here are my stats!****
 
