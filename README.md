@@ -27,8 +27,8 @@ My Top Languages!
 
 <br />
 
-Contact mango#6205 on discord for more information
-oh and if you know how to upload a large quantity of files, (specifically C# files), please oh so please contact me.
+Contact mango#6205 on discord for more information!
+I hope you have a great day!
 
 <br />
 
