@@ -1,13 +1,24 @@
-### You've reached Mango! 🥭
+### Hi, You've reached Mango! 🥭
 
 <img align="right" alt="PNG" src="https://raw.githubusercontent.com/mangoess/mangoess/main/Assets/mangopng2.png" width="320" height="320" />
 
-**Languages I Know:**
-C# | Learning 
-Python | Experienced
+# I'm a Python developer just trying to have fun.
+Here are some of my goals for this year 🥅
 
-**Modules / Frameworks / Everything else I know!**
-HTML, JS, CSS | Moderate
+- Try and collaborate with other developers ⏸️
+- Spread the mango name ✔️
+- Contribute and give back to the community ⏸️
+
+I also really love anything to do with automation 🤖
+
+# Here are also some other languages I'm learning!
+
+<img align="left" alt="raspberry-pi" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 ### PROJECTS YOU MIGHT LIKE
 
@@ -21,14 +32,8 @@ HTML, JS, CSS | Moderate
 
 <br />
 
-My Top Languages!
-
-[![Moi Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=mangoess&layout=compact)]
-
-<br />
-
-Contact mango#6205 on discord for more information!
-I hope you have a great day!
+# CONTACT
+If you want to contact me, please friend me on discord at mangoess#4904
 
 <br />
 
