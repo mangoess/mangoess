@@ -35,7 +35,7 @@ I also really love anything to do with automation 🤖
 <br />
 
 # CONTACT
-If you want to contact me, please friend me on discord at mangoess#4904
+If you want to contact me, please friend me on discord at mangoess#6663
 
 <br />
 
