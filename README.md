@@ -1,11 +1,5 @@
 ### Hi, You've reached Mango! 🥭
-<br>
-import your mom
-<br>
-⠀⠀⠀ERROR -->
-   <br>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀FILE SIZE TOO BIG! (90 PETABYTES)
-            <br>
+
 <img align="right" alt="PNG" src="https://raw.githubusercontent.com/mangoess/mangoess/main/Assets/mangopng2.png" width="320" height="320" />
 
 # I'm a Python developer just trying to have fun.
