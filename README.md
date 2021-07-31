@@ -2,12 +2,13 @@
 
 <img align="right" alt="PNG" src="https://raw.githubusercontent.com/mangoess/mangoess/main/Assets/mangopng2.png" width="320" height="320" />
 
-# I'm a Python developer just trying to have fun.
-Here are some of my goals for this year 🥅
+# All stack dev, learning.
+Some goals. 🥅
 
-- Try and collaborate with other developers ⏸️
+
 - Spread the mango name ✔️
-- Contribute and give back to the community ⏸️
+- Inform more people of the use of malware and how to protect themselves ⏸️
+- Whitehat hacker?
 
 I also really love anything to do with automation 🤖
 
@@ -24,18 +25,18 @@ I also really love anything to do with automation 🤖
 
 ### PROJECTS YOU SHOULD CHECK OUT!
 
-[fruity.py](https://github.com/mangoess/fruity) , 
-[DiscordSpamma!](https://github.com/mangoess/DiscordSpama) and 
-[SeeSharp](https://github.com/mangoess/CSharp)
+[DiscordSpamma!](https://github.com/mangoess/DiscordSpama), 
+[implify](https://github.com/mangoess/implify) and
+[Screeny](https://github.com/mangoess/Screeny)
 
 ****Here are my stats!****
 
-![Moi Github Statistiques](https://github-readme-stats.vercel.app/api?username=mangoess&show_icons=true&theme=cobalt)
+![Github Stats!](https://github-readme-stats.vercel.app/api?username=mangoess&show_icons=true&theme=cobalt)
 
 <br />
 
 # CONTACT
-If you want to contact me, please friend me on discord at mangoess#6663
+If you want to contact me, please friend me on discord at https://discord.gg/MyjJGfkt54
 
 <br />
 
