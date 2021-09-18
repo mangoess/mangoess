@@ -36,7 +36,7 @@ I also really love anything to do with automation 🤖
 <br />
 
 # CONTACT
-If you want to contact me, please friend me on discord at https://discord.gg/MyjJGfkt54
+If you want to contact me, talk to me here https://discord.gg/MyjJGfkt54 !
 
 <br />
 
